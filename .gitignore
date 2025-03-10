@@ -39,3 +39,4 @@ coverage/
 data/*.sqlite
 data/*.sqlite3
 
+.vercel
